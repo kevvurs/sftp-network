@@ -1,0 +1,12 @@
+---
+label: SFTP Episode
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: 'Shot From The Point: '
+  label: Title
+  name: title
+  hidden: false
+  config:
+    required: true
