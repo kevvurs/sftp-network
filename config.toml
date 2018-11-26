@@ -7,7 +7,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 pygmentsCodeFences = true
 theme = "navigator"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "SFTP Network"
 [Languages.en]
 dateFormat = "January 2, 2006"
 footerAboutTitle = "ENGLISH About"
